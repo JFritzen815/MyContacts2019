@@ -2,9 +2,8 @@
 //  ContactTableViewController.swift
 //  MyContacts
 //
-//  Created by Charles Konkol on 2016-05-05
-//  Copyright © 2016 Chuck Konkol. All rights reserved.
-//
+//  Created by Charles Konkol on 9/29/2019.
+//  Copyright © 2019 Charles Konkol. All rights reserved.
 
 import UIKit
 //0) Add Import Statements for CoreDate and Foundation
